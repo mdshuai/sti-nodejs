@@ -1,0 +1,4 @@
+# The default environment for this nodejs application is production
+# Auther dma just for test
+RACK_ENV=production
+FOO=bar
